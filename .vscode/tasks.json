@@ -1,0 +1,31 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "compile-js",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "compile-css",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "vagrant",
+            "problemMatcher": [],
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
+        },
+        {
+            "type": "npm",
+            "script": "watch",
+            "problemMatcher": [],
+            "runOptions": {
+                "runOn": "folderOpen"
+            }
+        }
+    ]
+}

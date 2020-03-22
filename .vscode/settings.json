@@ -1,0 +1,11 @@
+{
+    "triggerTaskOnSave.tasks": {
+        "compile-js": [
+            "resources/js/**/*.js"
+        ],
+        "compile-css": [
+            "resources/sass/**/*.scss"
+        ]
+    },
+    "editor.wordSeparators": "`~!@%^&*()-=+[{]}\\|;:'\",.<>/?",
+}
