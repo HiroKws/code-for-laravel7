@@ -10,6 +10,10 @@
 * vscode : 1.43.1
 * Laravel : ^7.0
 
+## 必要なLaravelの準備
+
+* インストールプロジェクトへHomestead環境を用意する。([参照：プロジェクトごとへのインストール](https://readouble.com/laravel/7.x/ja/homestead.html#per-project-installation))
+
 ## 必要なvscodeエクステンション
 
 * Trigger Task on Save (id: gruntfuggly.triggertaskonsave)
